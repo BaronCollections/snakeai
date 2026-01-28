@@ -1,6 +1,6 @@
-# 🐍 贪吃蛇游戏
+# 🐍 贪吃蛇游戏 (Snake AI)
 
-一个使用纯HTML、CSS和JavaScript开发的经典贪吃蛇游戏。
+一个使用纯HTML、CSS和JavaScript开发的经典贪吃蛇游戏。使用Claude AI生成，可部署至Vercel。
 
 ## 🎮 游戏特性
 
@@ -53,10 +53,17 @@ snake/
 
 这是一个单文件应用，所有代码都包含在 `index.html` 中，方便部署和分享。
 
+## 🚀 部署到Vercel
+
+1. Fork或克隆此仓库
+2. 访问 [Vercel](https://vercel.com)
+3. 导入此项目
+4. 一键部署
+
 ## 📄 许可证
 
 MIT License
 
 ## 👨‍💻 作者
 
-Created with ❤️ by AI Assistant
+Created with ❤️ by Claude AI Assistant
